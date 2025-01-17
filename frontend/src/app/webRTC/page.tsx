@@ -4,4 +4,4 @@ export default function Home() {
             <h1> WebRTC example </h1>
         </div>
     );
-}
+} 
